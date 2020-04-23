@@ -1,4 +1,4 @@
---color
---require spec_helper
---format documentation
---fail-fast
+push color
+push require spec_helper
+push format documentation
+push fail-fast
